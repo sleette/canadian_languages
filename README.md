@@ -1,4 +1,4 @@
-# canadian_languages
+# Canadian Languages
 This project aims to understand which languages Canadians speak, and where they speak them.
 
 ## English
