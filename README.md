@@ -1,4 +1,4 @@
-# Canadian Languages
+# Data Science Project: Canadian Languages
 This project aims to understand which languages Canadians speak, and where they speak them.
 
 ## English
